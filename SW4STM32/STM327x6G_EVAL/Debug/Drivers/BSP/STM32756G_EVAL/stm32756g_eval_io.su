@@ -1,0 +1,9 @@
+stm32756g_eval_io.c:142:9:BSP_IO_Init	16	static
+stm32756g_eval_io.c:178:9:BSP_IO_DeInit	0	static
+stm32756g_eval_io.c:190:10:BSP_IO_ITGetStatus	0	static
+stm32756g_eval_io.c:200:6:BSP_IO_ITClear	0	static
+stm32756g_eval_io.c:239:9:BSP_IO_ConfigPin	8	static
+stm32756g_eval_io.c:253:9:BSP_IO_ConfigIrqOutPin	8	static
+stm32756g_eval_io.c:272:6:BSP_IO_WritePin	0	static
+stm32756g_eval_io.c:284:10:BSP_IO_ReadPin	0	static
+stm32756g_eval_io.c:296:6:BSP_IO_TogglePin	16	static

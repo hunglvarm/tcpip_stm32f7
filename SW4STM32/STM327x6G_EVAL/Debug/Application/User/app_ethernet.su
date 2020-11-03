@@ -1,0 +1,4 @@
+app_ethernet.c:72:6:User_notification	0	static
+app_ethernet.c:110:6:ethernetif_notify_conn_changed	24	static
+app_ethernet.c:172:6:DHCP_Process	48	static
+app_ethernet.c:255:6:DHCP_Periodic_Handle	16	static
